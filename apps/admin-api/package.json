@@ -1,0 +1,15 @@
+{
+  "name": "psychic-admin-api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Admin control plane scaffold for a self-hosted Luna MMORPG server",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
